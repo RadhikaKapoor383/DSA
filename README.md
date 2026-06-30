@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/RadhikaKapoor383/DSA/tree/master/1732-find-the-highest-altitude) |
