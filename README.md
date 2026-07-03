@@ -35,6 +35,7 @@
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/RadhikaKapoor383/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/RadhikaKapoor383/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0796-rotate-string) |
 ## Graph Theory
 |  |
 | ------- |
