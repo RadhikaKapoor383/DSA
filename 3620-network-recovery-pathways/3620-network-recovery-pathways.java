@@ -20,7 +20,6 @@ class Solution {
             hi = Math.max(hi, e[2]);
         }
 
-        // Topological Order
         int[] topo = new int[n];
         Queue<Integer> q = new LinkedList<>();
 
