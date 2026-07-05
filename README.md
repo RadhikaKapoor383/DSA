@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RadhikaKapoor383/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RadhikaKapoor383/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
