@@ -6,7 +6,6 @@ class Solution {
         int[][] maxSum = new int[n][n];
         int[][] ways = new int[n][n];
 
-        // start from bottom-right (S)
         ways[n-1][n-1] = 1;
 
         for (int r = n-1; r >= 0; r--) {
