@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RadhikaKapoor383/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RadhikaKapoor383/DSA/tree/master/0058-length-of-last-word) |
@@ -75,6 +76,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
