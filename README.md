@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/RadhikaKapoor383/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/RadhikaKapoor383/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RadhikaKapoor383/DSA/tree/master/0035-search-insert-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
