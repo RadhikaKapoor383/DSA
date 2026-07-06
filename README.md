@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
