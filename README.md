@@ -166,11 +166,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RadhikaKapoor383/DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -187,4 +189,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RadhikaKapoor383/DSA/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
