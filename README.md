@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RadhikaKapoor383/DSA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
