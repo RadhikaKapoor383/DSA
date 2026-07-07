@@ -104,6 +104,7 @@
 | [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/RadhikaKapoor383/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RadhikaKapoor383/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RadhikaKapoor383/DSA/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
