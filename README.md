@@ -125,6 +125,7 @@
 | [0171-excel-sheet-column-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -214,11 +215,13 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RadhikaKapoor383/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
