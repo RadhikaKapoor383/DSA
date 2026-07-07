@@ -105,6 +105,7 @@
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RadhikaKapoor383/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
@@ -163,6 +164,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RadhikaKapoor383/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RadhikaKapoor383/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
