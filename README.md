@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -126,6 +127,7 @@
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
