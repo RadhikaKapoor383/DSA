@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RadhikaKapoor383/DSA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -100,6 +101,7 @@
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -107,6 +109,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
