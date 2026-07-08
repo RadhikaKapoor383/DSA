@@ -140,6 +140,7 @@
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/RadhikaKapoor383/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -234,6 +235,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/RadhikaKapoor383/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RadhikaKapoor383/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0136-single-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
