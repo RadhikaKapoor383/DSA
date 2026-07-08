@@ -136,6 +136,7 @@
 | [0258-add-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -275,4 +276,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
