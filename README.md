@@ -149,6 +149,7 @@
 | [0292-nim-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/RadhikaKapoor383/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/RadhikaKapoor383/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -166,6 +167,7 @@
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/RadhikaKapoor383/DSA/tree/master/0367-valid-perfect-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
