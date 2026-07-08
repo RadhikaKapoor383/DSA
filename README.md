@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/RadhikaKapoor383/DSA/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RadhikaKapoor383/DSA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,6 +94,7 @@
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
@@ -106,6 +108,7 @@
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
@@ -130,6 +133,7 @@
 | [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -143,6 +147,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/RadhikaKapoor383/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RadhikaKapoor383/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -227,6 +232,7 @@
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
