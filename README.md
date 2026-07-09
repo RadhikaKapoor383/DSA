@@ -64,6 +64,7 @@
 | [0344-reverse-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RadhikaKapoor383/DSA/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RadhikaKapoor383/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/RadhikaKapoor383/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
@@ -152,6 +153,7 @@
 | [0326-power-of-three](https://github.com/RadhikaKapoor383/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/RadhikaKapoor383/DSA/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RadhikaKapoor383/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -258,6 +260,7 @@
 | [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RadhikaKapoor383/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
 |  |
 | ------- |
