@@ -24,6 +24,7 @@
 | [0303-range-sum-query-immutable](https://github.com/RadhikaKapoor383/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/RadhikaKapoor383/DSA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
@@ -108,6 +109,7 @@
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
