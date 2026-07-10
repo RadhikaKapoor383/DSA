@@ -43,6 +43,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
@@ -108,6 +109,7 @@
 | [0392-is-subsequence](https://github.com/RadhikaKapoor383/DSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0414-third-maximum-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 | [0367-valid-perfect-square](https://github.com/RadhikaKapoor383/DSA/tree/master/0367-valid-perfect-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -227,6 +231,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -242,6 +247,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RadhikaKapoor383/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/RadhikaKapoor383/DSA/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -280,6 +286,7 @@
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RadhikaKapoor383/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
 | ------- |
@@ -338,4 +345,5 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0409-longest-palindrome) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
