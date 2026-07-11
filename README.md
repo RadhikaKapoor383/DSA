@@ -88,6 +88,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/RadhikaKapoor383/DSA/tree/master/2278-percentage-of-letter-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -152,6 +153,7 @@
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 ## Sliding Window
@@ -191,6 +193,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 ## Binary Search
 |  |
@@ -302,6 +305,7 @@
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RadhikaKapoor383/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
