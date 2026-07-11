@@ -1,7 +1,7 @@
 class Solution {
     public int score(String[] cards, char x) {
-         int[] countA = new int[26]; // key = other letter, when first == x
-        int[] countB = new int[26]; // key = other letter, when second == x
+         int[] countA = new int[26]; 
+        int[] countB = new int[26]; 
         int countX = 0;
 
         for (String card : cards) {
