@@ -64,6 +64,7 @@
 | [0058-length-of-last-word](https://github.com/RadhikaKapoor383/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/RadhikaKapoor383/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
@@ -250,6 +251,7 @@
 | [0118-pascals-triangle](https://github.com/RadhikaKapoor383/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RadhikaKapoor383/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/RadhikaKapoor383/DSA/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -334,6 +336,7 @@
 | [0039-combination-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 ## Brainteaser
 |  |
