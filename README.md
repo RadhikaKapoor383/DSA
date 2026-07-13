@@ -377,5 +377,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/1291-sequential-digits) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 <!---LeetCode Topics End-->
