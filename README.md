@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RadhikaKapoor383/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/RadhikaKapoor383/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RadhikaKapoor383/DSA/tree/master/0014-longest-common-prefix) |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RadhikaKapoor383/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/RadhikaKapoor383/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -270,6 +272,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RadhikaKapoor383/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RadhikaKapoor383/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0119-pascals-triangle-ii) |
