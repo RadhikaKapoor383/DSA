@@ -173,6 +173,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RadhikaKapoor383/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
@@ -303,10 +304,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RadhikaKapoor383/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/RadhikaKapoor383/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RadhikaKapoor383/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/RadhikaKapoor383/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RadhikaKapoor383/DSA/tree/master/0326-power-of-three) |
