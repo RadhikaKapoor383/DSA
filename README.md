@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/RadhikaKapoor383/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RadhikaKapoor383/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RadhikaKapoor383/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0039-combination-sum) |
@@ -119,6 +120,7 @@
 | [0011-container-with-most-water](https://github.com/RadhikaKapoor383/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RadhikaKapoor383/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0125-valid-palindrome) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RadhikaKapoor383/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
