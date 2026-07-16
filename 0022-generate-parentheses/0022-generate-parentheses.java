@@ -7,7 +7,6 @@ class Solution {
 
     private void backtrack(List<String> result, StringBuilder current, 
                             int openCount, int closeCount, int n) {
-                                
         if (current.length() == 2 * n) {
             result.add(current.toString());
             return;
@@ -16,13 +15,13 @@ class Solution {
         if (openCount < n) {
             current.append('(');
             backtrack(result, current, openCount + 1, closeCount, n);
-            current.deleteCharAt(current.length() - 1); 
+            current.deleteCharAt(current.length() - 1);
         }
 
         if (closeCount < openCount) {
             current.append(')');
             backtrack(result, current, openCount, closeCount + 1, n);
-            current.deleteCharAt(current.length() - 1);
+            current.deleteCharAt(current.length() - 1); 
         }
     }
 }
