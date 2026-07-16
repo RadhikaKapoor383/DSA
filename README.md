@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RadhikaKapoor383/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/RadhikaKapoor383/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
@@ -167,6 +168,7 @@
 | [0012-integer-to-roman](https://github.com/RadhikaKapoor383/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/RadhikaKapoor383/DSA/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
@@ -271,6 +273,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RadhikaKapoor383/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
