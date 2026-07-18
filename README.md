@@ -19,6 +19,7 @@
 | [0036-valid-sudoku](https://github.com/RadhikaKapoor383/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
@@ -321,6 +322,7 @@
 | [0005-longest-palindromic-substring](https://github.com/RadhikaKapoor383/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/RadhikaKapoor383/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/RadhikaKapoor383/DSA/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RadhikaKapoor383/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -444,6 +446,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RadhikaKapoor383/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0409-longest-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
