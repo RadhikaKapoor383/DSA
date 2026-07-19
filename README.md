@@ -24,6 +24,7 @@
 | [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/RadhikaKapoor383/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -440,6 +441,7 @@
 | [0040-combination-sum-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RadhikaKapoor383/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/RadhikaKapoor383/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
