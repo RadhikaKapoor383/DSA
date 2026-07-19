@@ -23,6 +23,7 @@
 | [0046-permutations](https://github.com/RadhikaKapoor383/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -89,6 +90,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RadhikaKapoor383/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RadhikaKapoor383/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0125-valid-palindrome) |
@@ -162,6 +164,7 @@
 | [0016-3sum-closest](https://github.com/RadhikaKapoor383/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
@@ -183,6 +186,7 @@
 | [0013-roman-to-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/RadhikaKapoor383/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
