@@ -21,6 +21,7 @@
 | [0040-combination-sum-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RadhikaKapoor383/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
@@ -160,6 +161,7 @@
 | [0015-3sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RadhikaKapoor383/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
@@ -431,6 +433,7 @@
 | [0039-combination-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RadhikaKapoor383/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
