@@ -25,6 +25,7 @@
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RadhikaKapoor383/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/RadhikaKapoor383/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -336,6 +337,7 @@
 | [0010-regular-expression-matching](https://github.com/RadhikaKapoor383/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/RadhikaKapoor383/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RadhikaKapoor383/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RadhikaKapoor383/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -416,6 +418,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/RadhikaKapoor383/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 ## Binary Search Tree
