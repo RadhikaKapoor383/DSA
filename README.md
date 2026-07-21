@@ -28,6 +28,7 @@
 | [0053-maximum-subarray](https://github.com/RadhikaKapoor383/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RadhikaKapoor383/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -173,6 +174,7 @@
 | [0018-4sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
