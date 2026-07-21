@@ -123,6 +123,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/RadhikaKapoor383/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -480,6 +481,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 ## Combinatorics
 |  |
