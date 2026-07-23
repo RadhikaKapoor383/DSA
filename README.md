@@ -29,6 +29,7 @@
 | [0054-spiral-matrix](https://github.com/RadhikaKapoor383/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/RadhikaKapoor383/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RadhikaKapoor383/DSA/tree/master/0412-fizz-buzz) |
@@ -314,6 +316,7 @@
 | [0036-valid-sudoku](https://github.com/RadhikaKapoor383/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RadhikaKapoor383/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
