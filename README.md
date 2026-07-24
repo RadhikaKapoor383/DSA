@@ -31,6 +31,7 @@
 | [0056-merge-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/RadhikaKapoor383/DSA/tree/master/0118-pascals-triangle) |
@@ -199,6 +200,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/RadhikaKapoor383/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
@@ -318,6 +320,7 @@
 | [0048-rotate-image](https://github.com/RadhikaKapoor383/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RadhikaKapoor383/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
