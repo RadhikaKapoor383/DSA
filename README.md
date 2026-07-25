@@ -405,6 +405,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/RadhikaKapoor383/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
