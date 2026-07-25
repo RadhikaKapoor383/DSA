@@ -104,6 +104,7 @@
 | [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RadhikaKapoor383/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/RadhikaKapoor383/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/RadhikaKapoor383/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -392,6 +393,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RadhikaKapoor383/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/RadhikaKapoor383/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
