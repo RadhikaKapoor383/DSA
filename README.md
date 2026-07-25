@@ -161,6 +161,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/RadhikaKapoor383/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
@@ -406,6 +407,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
