@@ -251,6 +251,7 @@
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RadhikaKapoor383/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/RadhikaKapoor383/DSA/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/RadhikaKapoor383/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
@@ -425,6 +426,7 @@
 | [0029-divide-two-integers](https://github.com/RadhikaKapoor383/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/RadhikaKapoor383/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/RadhikaKapoor383/DSA/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RadhikaKapoor383/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0268-missing-number) |
@@ -486,6 +488,7 @@
 | [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/RadhikaKapoor383/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/RadhikaKapoor383/DSA/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 ## Brainteaser
