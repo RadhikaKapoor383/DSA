@@ -36,6 +36,7 @@
 | [0066-plus-one](https://github.com/RadhikaKapoor383/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RadhikaKapoor383/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/RadhikaKapoor383/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RadhikaKapoor383/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -165,6 +166,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/RadhikaKapoor383/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/RadhikaKapoor383/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
@@ -188,6 +190,7 @@
 | [0047-permutations-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RadhikaKapoor383/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RadhikaKapoor383/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RadhikaKapoor383/DSA/tree/master/0242-valid-anagram) |
