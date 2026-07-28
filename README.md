@@ -314,6 +314,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -400,6 +401,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -456,6 +458,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
@@ -463,6 +466,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
