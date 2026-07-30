@@ -136,6 +136,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/RadhikaKapoor383/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
@@ -279,6 +280,7 @@
 | [0415-add-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0415-add-strings) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RadhikaKapoor383/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -544,6 +546,7 @@
 | [0055-jump-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
