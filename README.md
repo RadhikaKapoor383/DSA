@@ -137,6 +137,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/RadhikaKapoor383/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
@@ -204,6 +205,7 @@
 | [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -235,6 +237,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -295,6 +298,7 @@
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
@@ -547,6 +551,7 @@
 | [0409-longest-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
