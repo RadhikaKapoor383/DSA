@@ -172,6 +172,7 @@
 | [0075-sort-colors](https://github.com/RadhikaKapoor383/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/RadhikaKapoor383/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0283-move-zeroes) |
@@ -220,6 +221,7 @@
 | [0036-valid-sudoku](https://github.com/RadhikaKapoor383/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RadhikaKapoor383/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/RadhikaKapoor383/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RadhikaKapoor383/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0205-isomorphic-strings) |
@@ -440,6 +442,7 @@
 | [0061-rotate-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/RadhikaKapoor383/DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
