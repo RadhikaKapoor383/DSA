@@ -421,6 +421,7 @@
 | [0110-balanced-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -430,6 +431,7 @@
 | [0020-valid-parentheses](https://github.com/RadhikaKapoor383/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/RadhikaKapoor383/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
@@ -484,6 +486,7 @@
 | [0110-balanced-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -496,6 +499,7 @@
 | [0110-balanced-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
