@@ -58,6 +58,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RadhikaKapoor383/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/RadhikaKapoor383/DSA/tree/master/0486-predict-the-winner) |
+| [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/1260-shift-2d-grid) |
@@ -237,6 +238,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -336,6 +338,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
+| [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -432,6 +435,7 @@
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
+| [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Stack
@@ -498,6 +502,7 @@
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
+| [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
