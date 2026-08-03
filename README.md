@@ -64,6 +64,7 @@
 | [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -287,6 +288,7 @@
 | [0415-add-strings](https://github.com/RadhikaKapoor383/DSA/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/RadhikaKapoor383/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -410,6 +412,7 @@
 | [0486-predict-the-winner](https://github.com/RadhikaKapoor383/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RadhikaKapoor383/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
@@ -558,6 +561,7 @@
 | [0292-nim-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/RadhikaKapoor383/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 ## Design
 |  |
 | ------- |
@@ -593,4 +597,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RadhikaKapoor383/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
