@@ -70,6 +70,7 @@
 | [1470-shuffle-the-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
+| [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [1732-find-the-highest-altitude](https://github.com/RadhikaKapoor383/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -248,6 +249,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
+| [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [2121-intervals-between-identical-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -315,6 +317,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
+| [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
