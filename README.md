@@ -147,6 +147,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
@@ -306,6 +307,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RadhikaKapoor383/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RadhikaKapoor383/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -555,6 +557,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RadhikaKapoor383/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RadhikaKapoor383/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -572,6 +575,7 @@
 | [0090-subsets-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -597,6 +601,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
