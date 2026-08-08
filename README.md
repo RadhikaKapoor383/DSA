@@ -74,6 +74,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/RadhikaKapoor383/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -320,6 +321,7 @@
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -406,6 +408,7 @@
 | [1260-shift-2d-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String Matching
@@ -417,6 +420,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -452,6 +456,7 @@
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RadhikaKapoor383/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -459,6 +464,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -571,6 +577,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -608,6 +615,7 @@
 | [0486-predict-the-winner](https://github.com/RadhikaKapoor383/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 ## Design
 |  |
 | ------- |
@@ -651,10 +659,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
+| [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 ## Database
 |  |
 | ------- |
