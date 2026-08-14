@@ -402,6 +402,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/RadhikaKapoor383/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -509,6 +510,7 @@
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/RadhikaKapoor383/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -586,6 +588,7 @@
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/RadhikaKapoor383/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
@@ -600,6 +603,7 @@
 | [0112-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/RadhikaKapoor383/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Divide and Conquer
 |  |
 | ------- |
