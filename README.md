@@ -520,6 +520,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RadhikaKapoor383/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/RadhikaKapoor383/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RadhikaKapoor383/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
@@ -656,6 +657,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RadhikaKapoor383/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RadhikaKapoor383/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/RadhikaKapoor383/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Greedy
 |  |
@@ -735,5 +737,6 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RadhikaKapoor383/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RadhikaKapoor383/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
