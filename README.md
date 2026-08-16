@@ -85,6 +85,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2121-intervals-between-identical-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RadhikaKapoor383/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/RadhikaKapoor383/DSA/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -293,6 +294,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [2121-intervals-between-identical-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/RadhikaKapoor383/DSA/tree/master/2682-find-the-losers-of-the-circular-game) |
