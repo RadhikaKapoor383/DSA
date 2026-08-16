@@ -65,6 +65,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/RadhikaKapoor383/DSA/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1140-stone-game-ii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -161,6 +162,7 @@
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RadhikaKapoor383/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
@@ -294,6 +296,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [0771-jewels-and-stones](https://github.com/RadhikaKapoor383/DSA/tree/master/0771-jewels-and-stones) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
@@ -380,6 +383,7 @@
 | [0169-majority-element](https://github.com/RadhikaKapoor383/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/RadhikaKapoor383/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [2029-stone-game-ix](https://github.com/RadhikaKapoor383/DSA/tree/master/2029-stone-game-ix) |
