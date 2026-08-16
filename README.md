@@ -88,6 +88,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RadhikaKapoor383/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/RadhikaKapoor383/DSA/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -298,6 +299,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/RadhikaKapoor383/DSA/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -579,6 +581,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RadhikaKapoor383/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RadhikaKapoor383/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
