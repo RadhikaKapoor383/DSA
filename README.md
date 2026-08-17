@@ -66,6 +66,7 @@
 | [1089-duplicate-zeros](https://github.com/RadhikaKapoor383/DSA/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1162-as-far-from-land-as-possible](https://github.com/RadhikaKapoor383/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RadhikaKapoor383/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -428,6 +429,7 @@
 | [0404-sum-of-left-leaves](https://github.com/RadhikaKapoor383/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/RadhikaKapoor383/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -459,6 +461,7 @@
 | [0064-minimum-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RadhikaKapoor383/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/RadhikaKapoor383/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -509,6 +512,7 @@
 | [0486-predict-the-winner](https://github.com/RadhikaKapoor383/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/RadhikaKapoor383/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RadhikaKapoor383/DSA/tree/master/1510-stone-game-iv) |
