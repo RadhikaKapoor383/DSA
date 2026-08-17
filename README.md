@@ -165,6 +165,7 @@
 | [0796-rotate-string](https://github.com/RadhikaKapoor383/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/RadhikaKapoor383/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RadhikaKapoor383/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
@@ -228,6 +229,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/RadhikaKapoor383/DSA/tree/master/1089-duplicate-zeros) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/RadhikaKapoor383/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -795,4 +797,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RadhikaKapoor383/DSA/tree/master/0455-assign-cookies) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/RadhikaKapoor383/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
