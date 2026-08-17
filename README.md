@@ -77,6 +77,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/RadhikaKapoor383/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -364,6 +365,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/RadhikaKapoor383/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/RadhikaKapoor383/DSA/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RadhikaKapoor383/DSA/tree/master/2029-stone-game-ix) |
@@ -509,6 +511,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RadhikaKapoor383/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RadhikaKapoor383/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -686,6 +689,7 @@
 | [1140-stone-game-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RadhikaKapoor383/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [2029-stone-game-ix](https://github.com/RadhikaKapoor383/DSA/tree/master/2029-stone-game-ix) |
 ## Design
