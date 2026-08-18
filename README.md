@@ -452,6 +452,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RadhikaKapoor383/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1845-seat-reservation-manager](https://github.com/RadhikaKapoor383/DSA/tree/master/1845-seat-reservation-manager) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
@@ -711,6 +712,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RadhikaKapoor383/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RadhikaKapoor383/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/RadhikaKapoor383/DSA/tree/master/0303-range-sum-query-immutable) |
+| [1845-seat-reservation-manager](https://github.com/RadhikaKapoor383/DSA/tree/master/1845-seat-reservation-manager) |
 ## Greedy
 |  |
 | ------- |
