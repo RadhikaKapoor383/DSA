@@ -170,6 +170,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RadhikaKapoor383/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
+| [1844-replace-all-digits-with-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RadhikaKapoor383/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
