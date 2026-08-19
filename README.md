@@ -175,6 +175,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RadhikaKapoor383/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
 | [1844-replace-all-digits-with-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1844-replace-all-digits-with-characters) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RadhikaKapoor383/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -698,6 +699,7 @@
 | [0131-palindrome-partitioning](https://github.com/RadhikaKapoor383/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/RadhikaKapoor383/DSA/tree/master/0401-binary-watch) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Brainteaser
 |  |
@@ -745,6 +747,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/1291-sequential-digits) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
