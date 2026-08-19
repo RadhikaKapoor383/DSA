@@ -86,6 +86,7 @@
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/RadhikaKapoor383/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RadhikaKapoor383/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
 | [1929-concatenation-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -267,6 +268,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RadhikaKapoor383/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -422,6 +424,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/RadhikaKapoor383/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -794,6 +797,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RadhikaKapoor383/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Prime Factorization
 |  |
