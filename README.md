@@ -88,6 +88,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RadhikaKapoor383/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/RadhikaKapoor383/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1872-stone-game-viii](https://github.com/RadhikaKapoor383/DSA/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -279,6 +280,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RadhikaKapoor383/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -439,6 +441,7 @@
 | [1539-kth-missing-positive-number](https://github.com/RadhikaKapoor383/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RadhikaKapoor383/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -475,6 +478,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/RadhikaKapoor383/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1845-seat-reservation-manager](https://github.com/RadhikaKapoor383/DSA/tree/master/1845-seat-reservation-manager) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
@@ -844,4 +848,8 @@
 |  |
 | ------- |
 | [1163-last-substring-in-lexicographical-order](https://github.com/RadhikaKapoor383/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
