@@ -116,6 +116,7 @@
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RadhikaKapoor383/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RadhikaKapoor383/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -342,6 +343,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RadhikaKapoor383/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
