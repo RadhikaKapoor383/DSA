@@ -90,6 +90,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/RadhikaKapoor383/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/RadhikaKapoor383/DSA/tree/master/1854-maximum-population-year) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/RadhikaKapoor383/DSA/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -251,6 +252,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/RadhikaKapoor383/DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -447,6 +449,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RadhikaKapoor383/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
