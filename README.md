@@ -91,6 +91,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/RadhikaKapoor383/DSA/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1856-maximum-subarray-min-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/RadhikaKapoor383/DSA/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RadhikaKapoor383/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -129,6 +130,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/RadhikaKapoor383/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/RadhikaKapoor383/DSA/tree/master/1854-maximum-population-year) |
+| [1856-maximum-subarray-min-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/RadhikaKapoor383/DSA/tree/master/1872-stone-game-viii) |
 | [2121-intervals-between-identical-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -597,6 +599,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/RadhikaKapoor383/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RadhikaKapoor383/DSA/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1856-maximum-subarray-min-product) |
 ## Linked List
 |  |
 | ------- |
@@ -794,6 +797,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1856-maximum-subarray-min-product) |
 ## Merge Sort
 |  |
 | ------- |
@@ -860,4 +864,8 @@
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/RadhikaKapoor383/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
