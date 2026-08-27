@@ -403,6 +403,7 @@
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/RadhikaKapoor383/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/RadhikaKapoor383/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RadhikaKapoor383/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -567,6 +568,7 @@
 | [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/RadhikaKapoor383/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/RadhikaKapoor383/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/RadhikaKapoor383/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RadhikaKapoor383/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -799,6 +801,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RadhikaKapoor383/DSA/tree/master/0062-unique-paths) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/RadhikaKapoor383/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RadhikaKapoor383/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
