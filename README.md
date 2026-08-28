@@ -404,6 +404,7 @@
 | [1510-stone-game-iv](https://github.com/RadhikaKapoor383/DSA/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/RadhikaKapoor383/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/RadhikaKapoor383/DSA/tree/master/1872-stone-game-viii) |
@@ -569,6 +570,7 @@
 | [1406-stone-game-iii](https://github.com/RadhikaKapoor383/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RadhikaKapoor383/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/RadhikaKapoor383/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/RadhikaKapoor383/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -640,6 +642,7 @@
 | [0326-power-of-three](https://github.com/RadhikaKapoor383/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RadhikaKapoor383/DSA/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/RadhikaKapoor383/DSA/tree/master/0486-predict-the-winner) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -656,6 +659,7 @@
 | [0401-binary-watch](https://github.com/RadhikaKapoor383/DSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RadhikaKapoor383/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/RadhikaKapoor383/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -713,6 +717,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RadhikaKapoor383/DSA/tree/master/0070-climbing-stairs) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/RadhikaKapoor383/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Number Theory
