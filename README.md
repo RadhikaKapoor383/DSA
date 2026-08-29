@@ -579,6 +579,7 @@
 | [1510-stone-game-iv](https://github.com/RadhikaKapoor383/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/RadhikaKapoor383/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/RadhikaKapoor383/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -668,6 +669,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RadhikaKapoor383/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/RadhikaKapoor383/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/RadhikaKapoor383/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -694,6 +696,7 @@
 | [0404-sum-of-left-leaves](https://github.com/RadhikaKapoor383/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -810,6 +813,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/1291-sequential-digits) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -903,4 +907,8 @@
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/RadhikaKapoor383/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Bitmask
+|  |
+| ------- |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 <!---LeetCode Topics End-->
