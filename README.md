@@ -534,6 +534,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1615-maximal-network-rank](https://github.com/RadhikaKapoor383/DSA/tree/master/1615-maximal-network-rank) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/RadhikaKapoor383/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
