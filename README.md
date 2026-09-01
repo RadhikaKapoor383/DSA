@@ -1,6 +1,6 @@
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics.
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -116,6 +116,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RadhikaKapoor383/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/RadhikaKapoor383/DSA/tree/master/3620-network-recovery-pathways) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RadhikaKapoor383/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -356,6 +357,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RadhikaKapoor383/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RadhikaKapoor383/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3664-two-letter-card-game](https://github.com/RadhikaKapoor383/DSA/tree/master/3664-two-letter-card-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RadhikaKapoor383/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RadhikaKapoor383/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -491,6 +493,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/RadhikaKapoor383/DSA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RadhikaKapoor383/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -527,6 +530,7 @@
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RadhikaKapoor383/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
 | ------- |
@@ -675,6 +679,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RadhikaKapoor383/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RadhikaKapoor383/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RadhikaKapoor383/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
