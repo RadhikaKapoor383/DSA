@@ -80,6 +80,7 @@
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/RadhikaKapoor383/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -293,6 +294,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RadhikaKapoor383/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RadhikaKapoor383/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RadhikaKapoor383/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/RadhikaKapoor383/DSA/tree/master/1847-closest-room) |
