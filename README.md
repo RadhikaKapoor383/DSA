@@ -81,6 +81,7 @@
 | [1539-kth-missing-positive-number](https://github.com/RadhikaKapoor383/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/RadhikaKapoor383/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/RadhikaKapoor383/DSA/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RadhikaKapoor383/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -827,6 +828,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/1291-sequential-digits) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/RadhikaKapoor383/DSA/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
