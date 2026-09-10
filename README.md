@@ -423,6 +423,7 @@
 | [1563-stone-game-v](https://github.com/RadhikaKapoor383/DSA/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RadhikaKapoor383/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1622-fancy-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/1622-fancy-sequence) |
 | [1728-cat-and-mouse-ii](https://github.com/RadhikaKapoor383/DSA/tree/master/1728-cat-and-mouse-ii) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/RadhikaKapoor383/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/RadhikaKapoor383/DSA/tree/master/1872-stone-game-viii) |
@@ -756,6 +757,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/RadhikaKapoor383/DSA/tree/master/1492-the-kth-factor-of-n) |
+| [1622-fancy-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RadhikaKapoor383/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RadhikaKapoor383/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RadhikaKapoor383/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -806,6 +808,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RadhikaKapoor383/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RadhikaKapoor383/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/RadhikaKapoor383/DSA/tree/master/0303-range-sum-query-immutable) |
+| [1622-fancy-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/1622-fancy-sequence) |
 | [1845-seat-reservation-manager](https://github.com/RadhikaKapoor383/DSA/tree/master/1845-seat-reservation-manager) |
 ## Greedy
 |  |
@@ -893,6 +896,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RadhikaKapoor383/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
@@ -933,4 +937,8 @@
 |  |
 | ------- |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/RadhikaKapoor383/DSA/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
