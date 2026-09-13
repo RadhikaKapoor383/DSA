@@ -61,6 +61,7 @@
 | [0486-predict-the-winner](https://github.com/RadhikaKapoor383/DSA/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
+| [0835-image-overlap](https://github.com/RadhikaKapoor383/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/RadhikaKapoor383/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/RadhikaKapoor383/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/RadhikaKapoor383/DSA/tree/master/1089-duplicate-zeros) |
@@ -539,6 +540,7 @@
 | [0064-minimum-path-sum](https://github.com/RadhikaKapoor383/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RadhikaKapoor383/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RadhikaKapoor383/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/RadhikaKapoor383/DSA/tree/master/0835-image-overlap) |
 | [1162-as-far-from-land-as-possible](https://github.com/RadhikaKapoor383/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RadhikaKapoor383/DSA/tree/master/1301-number-of-paths-with-max-score) |
