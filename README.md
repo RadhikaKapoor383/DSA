@@ -197,6 +197,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RadhikaKapoor383/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
 | [1844-replace-all-digits-with-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -355,6 +356,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/RadhikaKapoor383/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/RadhikaKapoor383/DSA/tree/master/1512-number-of-good-pairs) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RadhikaKapoor383/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1726-tuple-with-same-product](https://github.com/RadhikaKapoor383/DSA/tree/master/1726-tuple-with-same-product) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/RadhikaKapoor383/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
