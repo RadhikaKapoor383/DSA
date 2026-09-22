@@ -199,6 +199,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RadhikaKapoor383/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/RadhikaKapoor383/DSA/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1768-merge-strings-alternately](https://github.com/RadhikaKapoor383/DSA/tree/master/1768-merge-strings-alternately) |
 | [1844-replace-all-digits-with-characters](https://github.com/RadhikaKapoor383/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -511,6 +512,7 @@
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/RadhikaKapoor383/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RadhikaKapoor383/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -642,6 +644,7 @@
 | [0404-sum-of-left-leaves](https://github.com/RadhikaKapoor383/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0690-employee-importance](https://github.com/RadhikaKapoor383/DSA/tree/master/0690-employee-importance) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RadhikaKapoor383/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RadhikaKapoor383/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/RadhikaKapoor383/DSA/tree/master/3310-remove-methods-from-project) |
@@ -852,6 +855,7 @@
 | [1291-sequential-digits](https://github.com/RadhikaKapoor383/DSA/tree/master/1291-sequential-digits) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/RadhikaKapoor383/DSA/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/RadhikaKapoor383/DSA/tree/master/1620-coordinate-with-maximum-network-quality) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/RadhikaKapoor383/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/RadhikaKapoor383/DSA/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RadhikaKapoor383/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
